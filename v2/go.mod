@@ -255,3 +255,5 @@ require (
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 )
+
+replace github.com/projectdiscovery/clistats v0.0.12 => github.com/faint-star/clistats v0.0.12
